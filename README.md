@@ -1,1 +1,1 @@
-# product-sales-model
+predicting the price of products
